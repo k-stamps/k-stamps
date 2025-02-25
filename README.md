@@ -1,5 +1,4 @@
-Hi there, I am a software developer and product engineer.
-10+ years of experience in designing, developing, testing, and managing software development and engineering. 
+Hi there, I am a software developer and product engineer with 10+ years of experience in designing, developing, testing, and managing software development and engineering. 
 
 ## About Me
 Full-stack developer with experience in building web applications, with a strong project management and product development background. I am proficient in various development tools and methodologies. I pay attention to design, strive for project optimization, user-friendly layouts, and clean code. 
