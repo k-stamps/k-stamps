@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am a software developer and product engineer with 10+ years of experience in designing, developing, testing, and managing software development and engineering.
 
 <!--
 **k-stamps/k-stamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
