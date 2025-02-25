@@ -1,4 +1,4 @@
-Hi there! I am a software developer and product engineer.
+Hi there, I am a software developer and product engineer.
 10+ years of experience in designing, developing, testing, and managing software development and engineering. 
 
 ## About Me
