@@ -1,7 +1,7 @@
 10+ years of experience in designing, developing, testing, and managing software development and engineering. 
 
 ## About Me
-Full-stack developer with experience in building web applications, with a strong project management and product development background. I am proficient in various development tools and methodologies. I pay attention to design, strive for project optimization, user-friendly layouts, and clean code. 
+Full-stack web developer & sofware engineer with experience in building web applications, with a strong project management and product development background. I am proficient in various development tools and methodologies. I pay attention to design, strive for project optimization, user-friendly layouts, and clean code. 
 
 In my free time I study new technologies and read books and articles to expand my skills and knowledge. I have consulted in project coordination and technical solutions for businesses, individuals, and nonprofits, as well as in-house special project solutions at a large international digital marketing agency.
 
