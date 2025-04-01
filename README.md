@@ -1,4 +1,4 @@
-10+ years of experience in designing, developing, testing, and managing software development and engineering. 
+12+ years of experience in designing, developing, testing, and managing software development and engineering. 
 
 ## About Me
 Full-stack web developer, sofware engineer, and tester with experience in building web applications, with a strong project management and product development background. I am proficient in various development tools and methodologies. I pay attention to design, strive for project optimization, user-friendly layouts, and clean code. 
