@@ -1,9 +1,9 @@
 12+ years of experience in designing, developing, testing, and managing software development and engineering. 
 
 ## About Me
-Full-stack web developer, sofware engineer, and tester with experience in building web applications, with a strong project management and product development background. I am proficient in various development tools and methodologies. I pay attention to design, strive for project optimization, user-friendly layouts, and clean code. 
+I am experienced in database management, software engineering, and web application development, with a strong project management, quality assurance, and product development background. I am proficient in various development tools and methodologies. I pay attention to design and strive for project optimization, inclusive team-building, user-friendly layouts, and clean code. 
 
-In my free time I study new technologies and read books and articles to expand my skills and knowledge. I have consulted in project coordination and technical solutions for businesses, individuals, and nonprofits, as well as in-house special project solutions at a large international digital marketing agency.
+In my free time I study new technologies and read articles to expand my skills and knowledge. I have consulted in project coordination and technical solutions for businesses, individuals, and nonprofits, as well as in-house special project solutions at an international digital marketing agency.
 
 ## Technical Skills
 Linux virtual machines, command line, data warehousing, SQL, BigQuery, PostgreSQL, MS SQL Server, GraphQL, data visualization, Node.js, Docker, Kubernetes, CircleCI, REST APIs, JavaScript, HTML, HTML templates, CSS, Content Management Systems (CMS), Customer Relationship Management (CRM), website development, software planning, design, implementation, and maintenance, GitHub, and TortoiseSVN, Ollama.
