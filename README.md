@@ -6,7 +6,7 @@ I am experienced in database management, software engineering, and web applicati
 In my free time I study new technologies and read articles to expand my skills and knowledge. I have consulted in project coordination and technical solutions for businesses, individuals, and nonprofits, as well as in-house special project solutions at an international digital marketing agency.
 
 ## Technical Skills
-Linux virtual machines, command line, data warehousing, SQL, BigQuery, PostgreSQL, MS SQL Server, GraphQL, data visualization, Node.js, Docker, Kubernetes, CircleCI, REST APIs, JavaScript, HTML, HTML templates, CSS, Content Management Systems (CMS), Customer Relationship Management (CRM), website development, software planning, design, implementation, and maintenance, GitHub, and TortoiseSVN.
+Linux virtual machines, command line, data warehousing, SQL, BigQuery, PostgreSQL, MS SQL Server, GraphQL, data visualization, Node.js, Docker, Kubernetes, CircleCI, REST APIs, JavaScript, HTML, HTML templates, CSS, Content Management Systems (CMS), Customer Relationship Management (CRM), website development, software planning, design, implementation, and maintenance, Git Bash, GitHub, and TortoiseSVN.
 
 ## Workflow Tools & Processes
 Agile, Scrum, waterfall, Quality Assurance & Quality Management, remote & hybrid teams, Slack, Google Meet, Zoom, Confluence, Jira, Data Privacy, GDPR, technical project management, product development, cross-functional teams, inclusive on-boarding, technical documentation, process improvement, certified ISTQB software tester.
