@@ -11,6 +11,7 @@ Linux virtual machines, command line, data warehousing, SQL, BigQuery, PostgreSQ
 ## Workflow Tools & Processes
 Agile, Scrum, waterfall, Quality Assurance & Quality Management, remote & hybrid teams, Slack, Google Meet, Zoom, Confluence, Jira, Data Privacy, GDPR, technical project management, product development, cross-functional teams, inclusive on-boarding, technical documentation, process improvement, certified ISTQB software tester.
 
+[Connect on LinkedIn](https://www.linkedin.com/in/kathryn-stamps/)
 <!--
 **k-stamps/k-stamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
