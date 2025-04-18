@@ -1,7 +1,7 @@
 12+ years of experience in designing, developing, testing, and managing software development and engineering. 
 
 ## About Me
-I am experienced in database management, software engineering, and web application development, with a strong project management, quality assurance, and product development background. I am proficient in various development tools and methodologies. I pay attention to design and strive for project optimization, inclusive team-building, user-friendly layouts, and clean code. 
+I am experienced in software engineering and development, with a strong project management, quality assurance, and product development background. I am proficient in various development tools and methodologies. I pay attention to design and strive for project optimization, inclusive team-building, user-friendly layouts, and clean code. 
 
 In my free time I study new technologies and read articles to expand my skills and knowledge. I have consulted in project coordination and technical solutions for businesses, individuals, and nonprofits, as well as in-house special project solutions at an international digital marketing agency.
 
