@@ -19,8 +19,6 @@ Agile, Scrum, waterfall, Quality Assurance & Quality Management, remote & hybrid
 
 [Connect on LinkedIn](https://www.linkedin.com/in/kathryn-stamps/)
 
-<p align="left"><a href="https://www.linkedin.com/in/kathryn-stamps/" target="_blank"><img width="50" src="linkedin_icon.png"/></a></p>
-
 <p align="center"><a href="https://atsqa.org/certified-testers/profile/d278f6446c1646f697f4e3fc227f9e2d" target="_blank"><img width="200" src="ISTQB-Certification.png"/></a></p>
 
 
