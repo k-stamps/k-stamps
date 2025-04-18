@@ -18,6 +18,10 @@ Agile, Scrum, waterfall, Quality Assurance & Quality Management, remote & hybrid
 * JavaScript Programming | Harvard University, Continuing Education | 2016
 
 [Connect on LinkedIn](https://www.linkedin.com/in/kathryn-stamps/)
+
+<p align="center"><a href="https://atsqa.org/certified-testers/profile/d278f6446c1646f697f4e3fc227f9e2d" target="_blank"><img width="200" src="ISTQB-Certification.png"/><a></a></p>
+
+
 <!--
 **k-stamps/k-stamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
