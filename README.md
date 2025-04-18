@@ -6,7 +6,7 @@ I am experienced in database management, software engineering, and web applicati
 In my free time I study new technologies and read articles to expand my skills and knowledge. I have consulted in project coordination and technical solutions for businesses, individuals, and nonprofits, as well as in-house special project solutions at an international digital marketing agency.
 
 ## Technical Skills
-```SQL```&nbsp;&nbsp;```BigQuery```&nbsp;&nbsp;```PostgreSQL```&nbsp;&nbsp;```MS SQL Server```&nbsp;&nbsp;```GraphQL```&nbsp;&nbsp;```Node.js```&nbsp;&nbsp;```Docker```&nbsp;&nbsp;```Kubernetes```&nbsp;&nbsp;```CircleCI```&nbsp;&nbsp;```JavaScript```&nbsp;&nbsp;```HTML```&nbsp;&nbsp;```CSS```&nbsp;&nbsp;```Content Management Systems (CMS)```&nbsp;&nbsp;```Customer Relationship Management (CRM)```&nbsp;&nbsp;```website development```&nbsp;&nbsp;```data visualization```&nbsp;&nbsp;```Linux virtual machines```&nbsp;&nbsp;```Git Bash```&nbsp;&nbsp;```GitHub```&nbsp;&nbsp;```TortoiseSVN```&nbsp;&nbsp;```REST APIs```
+GraphQL, Kubernetes, CircleCI, Docker, Linux virtual machines, Window Subsystem for Linux (WSL), SQL, JSON, JavaScript, JQuery, HTML, CSS, Node.js, Microsoft SQL Server, PostgreSQL, data warehousing, Jira, Confluence, MS Teams, Slack, Excel spreadsheets, Google Workspace, CMS, CRM, and DAM applications, Tortoise SVN, GitHub, Git Bash, Git, Browserstack
 
 ## Workflow Tools & Processes
 Agile, Scrum, waterfall, Quality Assurance & Quality Management, remote & hybrid teams, Slack, Google Meet, Zoom, Confluence, Jira, Data Privacy, GDPR, technical project management, product development, cross-functional teams, inclusive on-boarding, technical documentation, process improvement, certified ISTQB software tester.
