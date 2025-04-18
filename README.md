@@ -11,6 +11,12 @@ GraphQL, Kubernetes, CircleCI, Docker, Linux virtual machines, Window Subsystem 
 ## Workflow Tools & Processes
 Agile, Scrum, waterfall, Quality Assurance & Quality Management, remote & hybrid teams, Slack, Google Meet, Zoom, Confluence, Jira, Data Privacy, GDPR, technical project management, product development, cross-functional teams, inclusive on-boarding, technical documentation, process improvement, certified ISTQB software tester.
 
+## Certifications & Training
+* Data Steward Foundations | LinkedIn Learning | 2024
+* Certified Tester Foundation Level (CTFL) | ASTQB/ISTQB | 2023
+* Certified ScrumMaster Training & Certification | Scrum Alliance | 2018
+* JavaScript Programming | Harvard University, Continuing Education | 2016
+
 [Connect on LinkedIn](https://www.linkedin.com/in/kathryn-stamps/)
 <!--
 **k-stamps/k-stamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
