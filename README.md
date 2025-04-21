@@ -9,7 +9,7 @@ In my free time I study new technologies and read articles to expand my skills a
 GraphQL, Kubernetes, CircleCI, Docker, Linux virtual machines, Window Subsystem for Linux (WSL), SQL, JSON, JavaScript, ES6, JQuery, HTML, CSS, Node.js, Express.js, Microsoft SQL Server, PostgreSQL, data warehousing, Tortoise SVN, GitHub, Git Bash, Git, Browserstack, CMS, CRM, and DAM applications.
 
 ## Workflow Tools & Processes
-Agile, Scrum, waterfall, Quality Assurance & Quality Management, remote & hybrid teams, MS Teams, Slack, Google Meet, Zoom, Confluence, Jira, Data Privacy, GDPR, technical project management, product development, cross-functional teams, inclusive on-boarding, technical documentation, process improvement, certified ISTQB software tester.
+Agile, Scrum, waterfall, Quality Assurance & Quality Management, remote & hybrid teams, MS Teams, Slack, Google Meet, Zoom, Confluence, Jira, Data Privacy, GDPR, technical project management, product development, cross-functional teams, dev on-boarding & training, technical documentation, process improvement, certified ISTQB software tester.
 
 ## Certifications & Training
 * Data Steward Foundations | LinkedIn Learning | 2024
